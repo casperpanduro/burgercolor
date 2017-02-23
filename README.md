@@ -13,4 +13,6 @@ It's important that you follow this guide to get the right result!
 	});
 </script>
 ```
-## Important
+It is very IMPORTANT that the selector has a background color attached to it, because the script detects the backgound color values of the selectors.
+
+## The result
