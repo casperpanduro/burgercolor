@@ -7,7 +7,7 @@ It's important that you follow this guide to get the right result!
 <script src="burgercolor.js"></script>
 <script>
 	$(document).ready(function(){
-		$('section').burgercolor({
+		$('section').burgercolor({ // the element you want to detect the background color of
 			offset: 75
 		});
 	});
