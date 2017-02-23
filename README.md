@@ -16,3 +16,7 @@ It's important that you follow this guide to get the right result!
 It is very IMPORTANT that the selector has a background color attached to it, because the script detects the backgound color values of the selectors.
 
 ## The result
+When scrolling over a LIGHT background, the body will have the class: .bg-detect-light
+When scrolling over a DARK background, the body will have the class: .bg-detect-dark
+
+From here you can style whatever by the classes from the body
