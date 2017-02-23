@@ -8,8 +8,9 @@ It's important that you follow this guide to get the right result!
 <script>
 	$(document).ready(function(){
 		$('section').burgercolor({ // the element you want to detect the background color of
-			offset: 75
+			offset: 75 // the offset (default 0)
 		});
 	});
 </script>
 ```
+## Important
